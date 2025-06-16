@@ -2,4 +2,4 @@
 demo project
 
 
-Author Shantanu Jaitly
+Author Shantanu Jaitly.
